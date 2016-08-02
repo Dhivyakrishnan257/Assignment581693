@@ -89,7 +89,7 @@ ul.unstyled a
   }
 .carousel-caption{
   padding-bottom:150px;
-  color:black;
+  color:white;
 }
 .carousel-caption h4
 {
@@ -211,7 +211,7 @@ margin-top:70px;
   }
   .carousel-caption{
     padding-bottom:120px;
-    color:black;
+    color:white;
 }
 .carousel-caption h4{
   font-size: 22px;
@@ -246,6 +246,6 @@ margin-top:70px;
   }
   .carousel-caption{
     padding-bottom:200px;
-    color:black;
+    color:white;
 
 }
